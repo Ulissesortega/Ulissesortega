@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ulissesortega
 - 👀 I’m interested in programing all around front end back end
-- 🌱 I’m currently learning html, css, javascript
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on anything I can
 - 📫 How to reach me Ulisses.ortega@hotmail.com
 
